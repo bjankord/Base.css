@@ -24,4 +24,4 @@ Baseline.css also includes print styles, based on the concept from [Jordan Moore
 * Increased aesthetics on legacy browsers
 * Print styles* 
 
-*For the print styles to work, you must make sure in call to enhanced css, either use media type screen, or not print. Using media type all or leaving the media type out altogther will result in enhanced css styles being used when printing.
+*For the print styles to work, you must make sure when you link to your enhanced css, you either use media type screen, or not print. Using media type all or leaving the media type out altogther will result in enhanced css styles being used when printing.
