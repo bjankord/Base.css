@@ -5,6 +5,8 @@ What is it
 ----------
 Baseline.css is starting point for CSS progressive enhancement
 
+[View Demo](http://brettjankord.com/projects/baseline/)
+
 It uses a minified version of normalize.css from [Nicolas Gallagher](http://github.com/necolas)
 and [Jonathan Neal](http://github.com/jonathantneal) as a base.
 
