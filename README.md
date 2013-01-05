@@ -1,4 +1,25 @@
-baseline.css
-============
+baseline.css v0.1.0
+===================
 
-A baseline CSS file for use with progressive enhancement
+What is it
+----------
+Baseline.css is starting point for CSS progressive enhancement
+
+It uses a minified version of normalize.css from [Nicolas Gallagher](http://github.com/necolas)
+and [Jonathan Neal](http://github.com/jonathantneal) as base.
+
+From there, basic formatting styles are added to help improve aesthetics on less capable browsers.
+
+Baseline.css also includes print styles, based on the concept from [Jordan Moore](http://www.jordanm.co.uk/post/30308855354/where-print-fits-in-responsive-web-design).
+
+## With baseline.css you get all the benefits of normalize.css:
+
+* Preserves useful defaults, unlike many CSS resets.
+* Normalizes styles for a wide range of elements.
+* Corrects bugs and common browser inconsistencies.
+* Improves usability with subtle improvements.
+
+
+## Plus the benefits of:
+* Increased aesthetics on legacy browsers
+* Print styles* 
