@@ -1,9 +1,9 @@
-baseline.css v0.1.0
+Base.css v1.0.0
 ===================
 
 What is it
 ----------
-Baseline.css is starting point for CSS progressive enhancement
+Base.css is starting point for CSS progressive enhancement
 
 [View Demo](http://brettjankord.com/projects/baseline/)
 
