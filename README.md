@@ -1,29 +1,11 @@
-Base.css v1.0.0
+Base.css v1.1.0
 ===================
 
-What is it
-----------
-Base.css is starting point for CSS progressive enhancement
+A set of base styles used as a foundation for modular architected CSS.
 
-[View Demo](http://brettjankord.com/projects/baseline/)
-
-It uses a minified version of normalize.css from [Nicolas Gallagher](http://github.com/necolas)
+It uses normalize.css v1.1.2 from [Nicolas Gallagher](http://github.com/necolas)
 and [Jonathan Neal](http://github.com/jonathantneal) as a base.
 
-From there, basic formatting styles are added to help improve aesthetics on less capable browsers.
+From there, basic formatting styles are added for common elements.
 
-Baseline.css also includes print styles, based on the concept from [Jordan Moore](http://www.jordanm.co.uk/post/30308855354/where-print-fits-in-responsive-web-design).
-
-## With baseline.css you get all the benefits of normalize.css:
-
-* Preserves useful defaults, unlike many CSS resets.
-* Normalizes styles for a wide range of elements.
-* Corrects bugs and common browser inconsistencies.
-* Improves usability with subtle improvements.
-
-
-## Plus the benefits of:
-* Increased aesthetics on legacy browsers
-* Print styles* 
-
-*For the print styles to work, you must make sure when you link to your enhanced css, you either use media type screen, or not print. Using media type all or leaving the media type out altogther will result in enhanced css styles being used when printing.
+Base.css also includes print styles, based on the concept from [Jordan Moore](http://www.jordanm.co.uk/post/30308855354/where-print-fits-in-responsive-web-design).
