@@ -520,6 +520,9 @@ table {
 /* ==========================================================================
    Base - Custom
    ========================================================================== */
+html {
+    overflow-y: scroll;
+}
 
 body {
   background-color: #fff;
@@ -608,9 +611,9 @@ dl dd {
 
 /* Forms
    ========================================================================== */
-   label {
-    display: block;
-   }
+label {
+  display: block;
+}
 
 /* Horizontal Rule
    ========================================================================== */
@@ -639,8 +642,15 @@ hr {
 img {
   height: auto;
   max-width: 100%;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
+}
+
+/**
+ * Non-fluid images if you specify `width` and/or `height` attributes.
+ */
+ 
+img[width],
+img[height]{
+    max-width:none;
 }
 
 /* Lists
